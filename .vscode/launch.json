@@ -1,5 +1,6 @@
 {
   "version": "0.2.0",
+<<<<<<< HEAD
   "configurations": [
     {
       "name": "C/C++ Runner: Debug Session",
@@ -21,4 +22,6 @@
       ]
     }
   ]
+=======
+>>>>>>> master
 }
